@@ -22,8 +22,7 @@ O repositório também contém implementações de diversas chamadas de sistema 
 **Observação:** Algumas implementações podem ser simplificadas para fins didáticos e podem não corresponder exatamente às implementações do kernel Linux.
 
 ### Próximos passos
-* **Expansão do shell:** Adicionar mais funcionalidades como pipes, redirecionamento, aliases e scripts.
-* **Exploração de outras chamadas de sistema:** Implementar chamadas relacionadas a threads, semáforos e outros mecanismos de sincronização.
+* **Exploração de outras chamadas de sistema:** Implementar mais chamadas e chamadas mais avançadas
 * **Otimização do código:** Melhorar a eficiência e a segurança do código.
 
 **Este documento serve como uma introdução ao projeto. Para mais detalhes, consulte o código fonte e a documentação específica de cada módulo.**
